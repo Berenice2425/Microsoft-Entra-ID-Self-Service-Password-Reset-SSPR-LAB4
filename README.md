@@ -97,7 +97,7 @@ Within **Password reset**, select:
 Set:
 
 **Number of methods required to reset** → `1`
-<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/c85fc0a3-678c-445a-8aa6-9c3c5e75d1e0" />
+<img width="1227" height="507" alt="image" src="https://github.com/user-attachments/assets/22408fbd-5345-4952-a798-badc6100dbaa" />
 
 This determines how many authentication methods a user must successfully complete before they can reset their password.
 
