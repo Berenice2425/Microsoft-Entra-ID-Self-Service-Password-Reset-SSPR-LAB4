@@ -3,9 +3,6 @@
  The fourth lab in a 5-parts series.
  A thorough walk through on how to configure and review **Self-Service Password Reset (SSPR)** in Microsoft Entra ID. In this exercise, you will enable SSPR for a specific group, configure authentication methods, require users to register for SSPR, and configure password reset notifications.
 
-> **Estimated completion time:** 15 minutes
-
----
 
 ## 🎯 Objectives
 
@@ -100,6 +97,7 @@ Within **Password reset**, select:
 Set:
 
 **Number of methods required to reset** → `1`
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/c85fc0a3-678c-445a-8aa6-9c3c5e75d1e0" />
 
 This determines how many authentication methods a user must successfully complete before they can reset their password.
 
@@ -149,6 +147,8 @@ Within **Password reset**, select:
 ### Step 2 — Require User Registration
 
 Configure the following settings:
+<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/a18531f7-7b5c-4652-92f0-3968b732ed8f" />
+
 
 | Setting                                                  | Value       |
 | -------------------------------------------------------- | ----------- |
@@ -187,6 +187,7 @@ Within **Password reset**, select:
 ### Step 2 — Configure Notification Settings
 
 Configure the following:
+<img width="1236" height="548" alt="image" src="https://github.com/user-attachments/assets/9346fccd-a4b9-4aef-8976-1dc6c102dd5c" />
 
 | Setting                                                       | Value   |
 | ------------------------------------------------------------- | ------- |
