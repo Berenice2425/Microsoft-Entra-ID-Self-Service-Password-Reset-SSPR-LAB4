@@ -147,8 +147,8 @@ Within **Password reset**, select:
 ### Step 2 — Require User Registration
 
 Configure the following settings:
-<img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/a18531f7-7b5c-4652-92f0-3968b732ed8f" />
 
+<img width="1265" height="561" alt="image" src="https://github.com/user-attachments/assets/52f9b9c7-1441-4c22-a31b-7540a14a1fa3" />
 
 | Setting                                                  | Value       |
 | -------------------------------------------------------- | ----------- |
