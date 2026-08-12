@@ -1,6 +1,7 @@
 # Microsoft Entra ID — Self-Service Password Reset (SSPR)
 
-Learn how to configure and review **Self-Service Password Reset (SSPR)** in Microsoft Entra ID. In this exercise, you will enable SSPR for a specific group, configure authentication methods, require users to register for SSPR, and configure password reset notifications.
+ The fourth lab in a 5-parts series.
+ A thorough walk through on how to configure and review **Self-Service Password Reset (SSPR)** in Microsoft Entra ID. In this exercise, you will enable SSPR for a specific group, configure authentication methods, require users to register for SSPR, and configure password reset notifications.
 
 > **Estimated completion time:** 15 minutes
 
